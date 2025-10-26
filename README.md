@@ -8,4 +8,6 @@
 
 ### 📋 TODO
 
-- ⬜ **Release inference code and model weights** `📅 Nov 1, 2025`
+* ⬜ **The inference code will be released soon as needed.**
+* ⬜ **The model weights will be released after the paper is accepted.**
+
