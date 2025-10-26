@@ -6,8 +6,12 @@
 
 **Your star means a lot for us to develop this project!** :star:
 
+当然可以。你这句可以用正式、自然的英文科研写法改为：
+
+---
+
 ### 📋 TODO
 
-* ⬜ **The inference code will be released soon as needed.**
-* ⬜ **The model weights will be released after the paper is accepted.**
+> * ⬜ **The inference code will be made publicly available in the near future as needed.**
+> * ⬜ **The model weights will be released upon paper acceptance.**
 
