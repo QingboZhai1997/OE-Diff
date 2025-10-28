@@ -5,9 +5,8 @@
 > ¹Hainan University
 >
 > ²Space Engineering University
-¹Hainan University
-²Space Engineering University
-³Corresponding Author (email: eagler hu@hainanu.edu.cn)
+>
+> ³Corresponding Author (email: eagler hu@hainanu.edu.cn)
 ### 🚧 **Project Status**
 
 | Item | Status | Note |
