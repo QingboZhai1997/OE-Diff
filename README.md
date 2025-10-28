@@ -3,7 +3,7 @@
 > **Qingbo Zhai¹, Yifan Xu², Zhuhua Hu¹,³,*, Gaosheng Liu¹, Hangzhou Qu¹, Lanlan Liang¹**  
 > ¹Hainan University  
 > ²Space Engineering University  
-> ³Corresponding Author (email: eagler hu@hainanu.edu.cn)  
+> ³Corresponding Author (email: eagler_hu@hainanu.edu.cn)  
 ### 🚧 **Project Status**
 
 | Item | Status | 
