@@ -4,9 +4,6 @@
 
 **Authors:** Qingbo Zhai, Yifan Xu, Zhuhua Hu*, Gaosheng Liu, Hangzhou Qu, Lanlan Liang
 
-**Your star means a lot for us to develop this project!** :star:
-
-当然可以。你这句可以用正式、自然的英文科研写法改为：
 
 ---
 
