@@ -9,8 +9,8 @@
 > ³Corresponding Author (email: eagler hu@hainanu.edu.cn)
 ### 🚧 **Project Status**
 
-| Item | Status | Note |
-|------|--------|------|
-| Paper | Under Review |  |
-| Code & Model | Will be released upon acceptance |   |
-| Demo / Colab | Planned | Interactive demo on Hugging Face |
+| Item | Status | 
+|------|--------|
+| Paper | Under Review |
+| Code & Model | Will be released upon acceptance | 
+| Demo / Colab | Planned |
