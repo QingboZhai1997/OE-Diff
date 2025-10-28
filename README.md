@@ -1,13 +1,11 @@
 # OE-Diff
+**Observation-Embedded Diffusion with Closed-Form Guidance and Inverse-Root Scheduling**  
+> **Qingbo Zhai, Yifan Xu, Zhuhua Hu*, Gaosheng Liu, Hangzhou Qu, Lanlan Liang**
+> * Corresponding author (email: eagler hu@hainanu.edu.cn)
+### 🚧 **Project Status**
 
-**OE-Diff: Observation-Embedded Diffusion with Closed-Form Guidance and Inverse-Root Scheduling for Real-World Image Super-Resolution**
-
-**Authors:** Qingbo Zhai, Yifan Xu, Zhuhua Hu*, Gaosheng Liu, Hangzhou Qu, Lanlan Liang
-
-This is the official code for the paper "OE-Diff: Observation-Embedded Diffusion with Closed-Form Guidance and Inverse-Root Scheduling for Real-World Image Super-Resolution". The code will be made public when the paper is accepted.
----
-
-### 📋 TODO
-
-> * ⬜ **The inference code and model weights will be released upon paper acceptance.**
-
+| Item | Status | Note |
+|------|--------|------|
+| Paper | Under Review |  |
+| Code & Model | Will be released upon acceptance |   |
+| Demo / Colab | Planned | Interactive demo on Hugging Face |
